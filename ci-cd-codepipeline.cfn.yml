@@ -40,7 +40,7 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: SudKul
+    Default: tug25060@temple.edu
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
