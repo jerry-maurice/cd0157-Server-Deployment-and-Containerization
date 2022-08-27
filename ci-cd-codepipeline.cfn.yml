@@ -40,7 +40,7 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: tug25060@temple.edu
+    Default: jerry-maurice
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
